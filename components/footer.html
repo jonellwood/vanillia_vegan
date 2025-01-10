@@ -1,0 +1,51 @@
+<footer>
+    <div class="links">
+        <a href="#nav-placeholder">Back to top</a>
+        <a href="/">Home</a>
+    </div>
+    <div class="footer-center-div">
+        <p id="framework-days"></p>
+        <img src="/images/frameworkFree.png" alt="Framework Free" class="frameworkFree">
+    </div>
+    <div>
+        Made with ❤️ by Jon Ellwood. HTML, CSS, and JavaScript. #FrameworkFree
+        
+    </div>
+</footer>
+<!-- <script>
+    function updateFrameworkDays() {     
+        console.log('Proof of life');
+        const targetDate = new Date("2024-01-04");
+        console.log(targetDate);
+        const today = new Date();
+        const diffTime =  today - targetDate;
+        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+        
+        const frameworkDaysElement = document.getElementById("framework-days");
+        frameworkDaysElement.textContent = `It has been ${diffDays} days since my last Framework.`;
+    }
+    document.addEventListener("DOMContentLoaded", () => {
+        setTimeout(updateFrameworkDays, 500);
+    })
+</script> -->
+<style>
+    footer{ 
+        .links{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        /* padding-bottom: 10px; */
+        /* margin-bottom: 10px; */
+        }
+        .footer-center-div{
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            align-items: center;
+        }
+        .frameworkFree{
+            width: 100px;
+            height: auto;
+        }
+    }
+</style>
