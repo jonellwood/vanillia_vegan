@@ -1,0 +1,109 @@
+{
+	"posts": [
+		{
+			"author": "Jon Ellwood",
+			"categories": ["intro"],
+			"coverHeight": 9,
+			"coverImage": "https://media.istockphoto.com/id/1148612960/photo/young-plant-of-green-vegetable-peas-young-plant-of-green-peas-in-the-garden-of-early-spring.jpg?s=612x612&w=0&k=20&c=KzcpxNUP8MHtwI2JGZ0XnMo5mK0r-TT2PhSxOCrEnbQ=",
+			"coverWidth": 16,
+			"date": "2023-02-15",
+			"draft": false,
+			"excerpt": "Description of why I choose to become a vegan.",
+			"featured": true,
+			"index": 1,
+			"postSlug": "me-version-2",
+			"title": "Me",
+			"updated": "2023-02-15"
+		},
+		{
+			"author": "Jon Ellwood",
+			"categories": ["poops"],
+			"coverHeight": 9,
+			"coverImage": "https://images.unsplash.com/photo-1575839215095-e2700ade45c5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Fsa2luZyUyMGludG8lMjB0aGUlMjBsaWdodHxlbnwwfHwwfHx8MA%3D%3D",
+			"coverWidth": 16,
+			"date": "2023-08-24",
+			"draft": false,
+			"excerpt": "The unexpected benefit of cutting meat and dairy out of my diet on my gut health.",
+			"featured": true,
+			"postSlug": "my-poop-post",
+			"title": "A Post on Poops",
+			"updated": "2023-08-24"
+		},
+		{
+			"author": "Jon Ellwood",
+			"categories": ["trader Joes", "product Review"],
+			"coverHeight": 9,
+			"coverImage": "https://www.traderjoes.com/content/dam/trjo/context-images/74786-meatless-ground-pdp.jpg/jcr:content/renditions/webp-1280.webp",
+			"coverWidth": 16,
+			"date": "2023-03-09",
+			"draft": false,
+			"excerpt": "Tried Trader Joes Meatless Ground product for Taco Tuesday.",
+			"featured": true,
+			"postSlug": "even-my-wife-said",
+			"title": "Trader Joes Meatless Ground is ....",
+			"updated": "2023-03-09"
+		},
+		{
+			"categories": ["review", "plant-based-food"],
+			"coverHeight": 6,
+			"coverImage": "/images/alpha-wrapper.jpg",
+			"coverWidth": 16,
+			"date": "2024-01-27",
+			"excerpt": "My review of the Alpha brand plant based breakfast burrito.",
+			"title": "Alpha Breakfast Burrito",
+			"updated": "2024-01-27"
+		},
+		{
+			"categories": ["intro", "me", "misc"],
+			"coverHeight": 9,
+			"coverImage": "/images/mathyas-kurmann-fb7yNPbT0l8-unsplash.jpg",
+			"coverWidth": 16,
+			"date": "2023-12-26",
+			"excerpt": "I finally answer the question on everyone's mind... Why do I not post articles as often as many other blogs do.",
+			"title": "My posting frequency",
+			"updated": "2023-12-26"
+		},
+		{
+			"author": "Jon Ellwood",
+			"categories": ["deep thoughts"],
+			"coverHeight": 9,
+			"coverImage": "/images/natural_tree_by_ai.jpeg",
+			"coverWidth": 16,
+			"date": "2024-11-09",
+			"draft": false,
+			"excerpt": "My thoughts on Nature.",
+			"featured": true,
+			"postSlug": "nature-thoughts",
+			"title": "My Thoughts on Nature",
+			"updated": "2024-11-09"
+		},
+		{
+			"author": "Jon Ellwood",
+			"categories": ["webdev", "AI"],
+			"coverHeight": 9,
+			"coverImage": "https://media.istockphoto.com/id/1296110471/photo/woman-hiking-and-going-camping-in-nature.jpg?s=612x612&w=0&k=20&c=MzjTBdwL0GMadIW6THkJ_o5_Roj83xvBweFPKNDoRPM=",
+			"coverWidth": 16,
+			"date": "2023-09-18",
+			"draft": false,
+			"excerpt": "With limited funds to spend on tools to assist me in writing code I am presenting my case for choosing CodePen Pro over Github Copilot.",
+			"featured": true,
+			"postSlug": "why-choose-codepen-over-copilot",
+			"title": "Why I chose Codepen Pro over Copilot",
+			"updated": "2023-09-18"
+		},
+		{
+			"author": "Jon Ellwood",
+			"categories": ["introspection"],
+			"coverHeight": 9,
+			"coverImage": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?q=80&w=1518&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"coverWidth": 16,
+			"date": "2023-09-04",
+			"draft": false,
+			"excerpt": "Why do we apologize?",
+			"featured": false,
+			"postSlug": "why-should-i-apologize",
+			"title": "Why should I apologize",
+			"updated": "2023-09-04"
+		}
+	]
+}
