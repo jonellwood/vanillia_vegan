@@ -1,0 +1,190 @@
+{
+	"Chilling": [
+		{
+			"artist": "Darude",
+			"guid": "ed330c82-efd0-4fd4-85a0-8774999b0cda",
+			"img": "../images/Darude_Sandstorm.jpg",
+			"index": 0,
+			"title": "Sandstorm"
+		},
+		{
+			"artist": "Fatboy Slim",
+			"guid": "c2ea45f8-7077-455e-ad35-fe72a7b52ac4",
+			"img": "../images/Fatboy_Slim_Right_Here_Right_Now.jpg",
+			"index": 1,
+			"title": "Right Here, Right Now"
+		}
+	],
+	"Coding": [
+		{
+			"artist": "Camo & Krooked",
+			"guid": "bdea2f95-2606-4ca0-b628-c70cf39b6d13",
+			"img": "../images/Camo&Crooked.jpeg",
+			"index": 0,
+			"title": "Hot Pursuit(Dead Battery Remix"
+		},
+		{
+			"artist": "Camo & Krooked",
+			"guid": "d2037f8c-9d10-43f8-820a-cdba69047303",
+			"img": "../images/Camo&Crooked.jpeg",
+			"index": 1,
+			"title": "Get Dirty(Smooth Remix)[feat. TC]"
+		},
+		{
+			"artist": "Bou, Camo & Krooked & Mefjus",
+			"guid": "c592dc28-367f-4e3c-a443-e3a4b5b4eeb8",
+			"img": "../images/swerve_it.jpeg",
+			"index": 2,
+			"title": "Swerve It"
+		},
+		{
+			"artist": "Mersiv",
+			"gu`id": "c592dc28-367f-4e3c-a443-e3a4b5b4eeb8",
+			"img": "../images/like_it_when_you_move.jpg",
+			"index": 3,
+			"title": "I Like It When You Move"
+		},
+		{
+			"artist": "Space Laces",
+			"guid": "76875994-38bd-4a51-83cb-dff86d7e8915",
+			"img": "../images/survive_space_laces.jpg",
+			"index": 4,
+			"title": "Survive"
+		},
+		{
+			"artist": "Phocust",
+			"guid": "b35a79f9-5b13-4c84-9d87-889e416cceca",
+			"img": "../images/halo_beam_phocust.jpg",
+			"index": 5,
+			"title": "Halo Beam"
+		},
+		{
+			"artist": "Marshmello & Space Laces",
+			"guid": "1f356369-cef4-40ac-8194-86176878b947",
+			"img": "../images/conquer_marshmellow_space_laces.jpg",
+			"index": 6,
+			"title": "Conquer"
+		},
+		{
+			"artist": "HEYZ",
+			"guid": "3dcba1d1-2b5c-4f69-a602-2383263432e2",
+			"img": "../images/coming_up_like_that.jpg",
+			"index": 7,
+			"title": "Coming up (Like That)"
+		},
+		{
+			"artist": "Blanke & Au5",
+			"guid": "862d1b74-db24-4c03-98a2-c440cd15a5c8",
+			"img": "../images/turmoil_blanke.jpg",
+			"index": 8,
+			"title": "Turmoil"
+		},
+		{
+			"artist": "Dirtyphonics & Bossfight",
+			"guid": "612b9fbb-6a9a-48e6-bb82-d63a75e5c4ca",
+			"img": "../images/revenge_dirtyphonics_bossfight.jpg",
+			"index": 9,
+			"title": "Revenge"
+		},
+		{
+			"artist": "12th Planet",
+			"guid": "5f5798c8-5299-4466-bdd0-318691a36282",
+			"img": "../images/king_mathematics.jpg",
+			"index": 10,
+			"title": "King Mathematics"
+		},
+		{
+			"artist": "DIESEL, Crankdat & Shaquille O'Neal",
+			"guid": "d42c5754-09d4-4e82-83bd-c008bdbf994b",
+			"img": "../images/heat_diesel.jpg",
+			"index": 11,
+			"title": "HEAT"
+		},
+		{
+			"artist": "Jauz",
+			"guid": "e225779d-f702-44da-98cb-e2a62873cc0c",
+			"img": "../images/mind_control_jauz.jpg",
+			"index": 12,
+			"title": "MIND CONTROL"
+		},
+		{
+			"artist": "A Hundred Drums & Coki",
+			"guid": "eba9c49c-a69d-4968-8efb-da0cf743ef7d",
+			"img": "../images/beginning_to_the_end.jpg",
+			"index": 13,
+			"title": "Beginning To The End"
+		},
+		{
+			"artist": "DJ Snake & Crankdat",
+			"guid": "b356cbf2-46ff-469a-997d-a0313ec24d29",
+			"img": "../images/big_bang_dj_snake.jpg",
+			"index": 14,
+			"title": "Big Bang"
+		},
+		{
+			"artist": "Bear Grillz & Kompany",
+			"guid": "c14e8097-236a-4bea-afea-2bf8d2fd9dda",
+			"img": "../images/red_alert_bear_grillz.jpg",
+			"index": 15,
+			"title": "Red Alert"
+		}
+	],
+	"Running": [
+		{
+			"artist": "Imagine Dragons",
+			"guid": "ed330c82-efd0-4fd4-85a0-8774999b0cda",
+			"img": "../images/Imagine_Dragons_Thunder.jpg",
+			"index": 0,
+			"title": "Thunder"
+		},
+		{
+			"artist": "Moon Taxi",
+			"guid": "c2ea45f8-7077-455e-ad35-fe72a7b52ac4",
+			"img": "../images/Moon_Taxi_Two_High.jpg",
+			"index": 1,
+			"title": "Two High"
+		},
+		{
+			"artist": "X Ambassadors",
+			"guid": "1a008a4d-f49b-4bf3-916a-221f5ccbfd45",
+			"img": "../images/X_Ambassadors_Boom.jpeg",
+			"index": 2,
+			"title": "BOOM"
+		},
+		{
+			"artist": "Coldplay",
+			"guid": "23a7606a-26ea-4cb2-83299-51ce6d990abc",
+			"img": "../images/Coldplay_Lifetime.jpg",
+			"index": 3,
+			"title": "Adventure of a Lifetime"
+		},
+		{
+			"artist": "Miley Cyrus",
+			"guid": "23a7606a-26ea-4cb2-8779-51ce6d990abc",
+			"img": "../images/Miley_Cyrus_Midnight_Sky.png",
+			"index": 4,
+			"title": "Midnight Sky"
+		},
+		{
+			"artist": "OneRepublic",
+			"guid": "23a7606a-26ea-4cb2-8499-51ce6d990abc",
+			"img": "../images/OneRepublic_Counting_Stars.png",
+			"index": 5,
+			"title": "Counting Stars"
+		},
+		{
+			"artist": "Pink",
+			"guid": "23a7606a-26ea-4cb2-8899-51ce6d990abc",
+			"img": "../images/Pink_So_What.jpg",
+			"index": 6,
+			"title": "So What"
+		},
+		{
+			"artist": "Florence + the Machine",
+			"guid": "23a7606a-26ea-4cb2-8899-51ce6d990abc",
+			"img": "../images/Shake_it_Out.png",
+			"index": 7,
+			"title": "Shake it Out"
+		}
+	]
+}
