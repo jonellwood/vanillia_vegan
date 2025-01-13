@@ -2,6 +2,20 @@
 	"posts": [
 		{
 			"author": "Jon Ellwood",
+			"categories": ["webdev, wicked, javascript"],
+			"coverHeight": 9,
+			"coverImage": "/images/wickedjs.webp",
+			"coverWidth": 16,
+			"date": "2025-01-13",
+			"draft": false,
+			"excerpt": "Introducing WickedJS.",
+			"featured": true,
+			"postSlug": "wicked.html",
+			"title": "Wicked JS Announcement",
+			"updated": "2023-01-13"
+		},
+		{
+			"author": "Jon Ellwood",
 			"categories": ["webdev, vegan"],
 			"coverHeight": 9,
 			"coverImage": "/images/vegan-laptop.webp",
