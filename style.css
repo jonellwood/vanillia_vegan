@@ -24,6 +24,9 @@
 	font-family: FiraCode;
 	src: url(/fonts/FiraCode-Regular.woff2);
 }
+@view-transition {
+	navigation: auto;
+}
 
 body {
 	font-family: var(--primaryFont);
