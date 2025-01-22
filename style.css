@@ -790,3 +790,12 @@ pre::-webkit-scrollbar-track {
 		font-size: small;
 	}
 }
+.workout-image {
+	width: 75px;
+}
+.workout-table {
+	width: 50%;
+	td {
+		text-align: center;
+	}
+}

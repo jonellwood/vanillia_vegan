@@ -1,0 +1,623 @@
+[
+	{
+		"date": "07/31/2023",
+		"distance": "4.51 k",
+		"duration": "24 min",
+		"index": 0,
+		"type": "Running",
+		"weather": "89°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "08/03/2023",
+		"distance": "7.73 k",
+		"duration": "44 min",
+		"index": 1,
+		"type": "Running",
+		"weather": "86°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "08/12/2023",
+		"distance": "7.5 k",
+		"duration": "45 min",
+		"index": 2,
+		"type": "Running",
+		"weather": "81°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "08/20/2023",
+		"distance": "5.02 k",
+		"duration": "33 min",
+		"index": 3,
+		"type": "Running",
+		"weather": "86°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "08/23/2023",
+		"distance": "5.01 k",
+		"duration": "28 min",
+		"index": 4,
+		"type": "Running",
+		"weather": "88°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "08/28/2023",
+		"distance": "5.05 k",
+		"duration": "29 min",
+		"index": 5,
+		"type": "Running",
+		"weather": "88°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "09/02/2023",
+		"distance": "16.02 k",
+		"duration": "107 min",
+		"index": 6,
+		"type": "Running",
+		"weather": "98°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "09/08/2023",
+		"distance": "5.08 k",
+		"duration": "26 min",
+		"index": 7,
+		"type": "Running",
+		"weather": "74°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "09/10/2023",
+		"distance": "5.02 k",
+		"duration": "27 min",
+		"index": 8,
+		"type": "Running",
+		"weather": "86°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "09/12/2023",
+		"distance": "5.44 k",
+		"duration": "33 min",
+		"index": 9,
+		"type": "Running",
+		"weather": "81°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "09/18/2023",
+		"distance": "8.00 k",
+		"duration": "53 min",
+		"index": 10,
+		"type": "Running",
+		"weather": "70°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "09/24/2023",
+		"distance": "21.33 k",
+		"duration": "146 min",
+		"index": 11,
+		"type": "Running",
+		"weather": "63°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "09/26/2023",
+		"distance": "8.05 k",
+		"duration": "53 min",
+		"index": 12,
+		"type": "Running",
+		"weather": "69°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "10/01/2023",
+		"distance": "7.52 k",
+		"duration": "51 min",
+		"index": 13,
+		"type": "Running",
+		"weather": "68°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "10/08/2023",
+		"distance": "18.38 k",
+		"duration": "117 min",
+		"index": 14,
+		"type": "Running",
+		"weather": "56°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "10/10/2023",
+		"distance": "8.09 k",
+		"duration": "53 min",
+		"index": 15,
+		"type": "Running",
+		"weather": "55°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "10/15/2023",
+		"distance": "8.08 k",
+		"duration": "46 min",
+		"index": 16,
+		"type": "Running",
+		"weather": "59°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "10/22/2023",
+		"distance": "8.87 k",
+		"duration": "55 min",
+		"index": 17,
+		"type": "Running",
+		"weather": "75°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "10/29/2023",
+		"distance": "8.4 k",
+		"duration": "48 min",
+		"index": 18,
+		"type": "Running",
+		"weather": "76°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "11/10/2023",
+		"distance": "15.11 k",
+		"duration": "100 min",
+		"index": 19,
+		"type": "Running",
+		"weather": "65°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "11/11/2023",
+		"distance": "8.095 k",
+		"duration": "45 min",
+		"index": 20,
+		"type": "Running",
+		"weather": "65°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "11/16/2023",
+		"distance": "8.24 k",
+		"duration": "48 min",
+		"index": 21,
+		"type": "Running",
+		"weather": "57°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "11/17/2023",
+		"distance": "8.04672 k",
+		"duration": "49 min",
+		"index": 22,
+		"type": "Running",
+		"weather": "73°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "11/24/2023",
+		"distance": "8.449 k",
+		"duration": "48 min",
+		"index": 23,
+		"type": "Running",
+		"weather": "57°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "12/03/2023",
+		"distance": "21.484742 k",
+		"duration": "143 min",
+		"index": 24,
+		"type": "Running",
+		"weather": "68°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "12/14/2023",
+		"distance": "1.25 k",
+		"duration": "8 min",
+		"index": 25,
+		"type": "Running",
+		"weather": "42°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "12/23/2023",
+		"distance": "8.062813 k",
+		"duration": "37 min",
+		"index": 26,
+		"type": "Running",
+		"weather": "46°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "12/31/2023",
+		"distance": "8.046 k",
+		"duration": "49 min",
+		"index": 27,
+		"type": "Running",
+		"weather": "42°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "01/07/2024",
+		"distance": "12.07101 k",
+		"duration": "85 min",
+		"index": 28,
+		"type": "Running",
+		"weather": "47°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "01/14/2024",
+		"distance": "8.062813 k",
+		"duration": "54 min",
+		"index": 29,
+		"type": "Running",
+		"weather": "50°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "01/20/2024",
+		"distance": "5.230368 k",
+		"duration": "38 min",
+		"index": 30,
+		"type": "Running",
+		"weather": "37°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "01/23/2024",
+		"distance": "6.147694 k",
+		"duration": "38 min",
+		"index": 31,
+		"type": "Running",
+		"weather": "49°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "01/24/2024",
+		"distance": "5.037247 k",
+		"duration": "33 min",
+		"index": 32,
+		"type": "Running",
+		"weather": "68°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "02/03/2024",
+		"distance": "11.89305 k",
+		"duration": "77 min",
+		"index": 33,
+		"type": "Running",
+		"weather": "52°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "02/11/2024",
+		"distance": "5.00506 k",
+		"duration": "26 min",
+		"index": 34,
+		"type": "Running",
+		"weather": "58°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "02/25/2024",
+		"distance": "8.272028 k",
+		"duration": "48 min",
+		"index": 35,
+		"type": "Running",
+		"weather": "47°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "03/03/2024",
+		"distance": "5.648797 k",
+		"duration": "36 min",
+		"index": 36,
+		"type": "Running",
+		"weather": "59°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "03/22/2024",
+		"distance": "2.57495 k",
+		"duration": "14 min",
+		"index": 37,
+		"type": "Running",
+		"weather": "70°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "04/01/2024",
+		"distance": "5.536143 k",
+		"duration": "31 min",
+		"index": 38,
+		"type": "Running",
+		"weather": "59°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "04/07/2024",
+		"distance": "11.69993 k",
+		"duration": "73 min",
+		"index": 39,
+		"type": "Running",
+		"weather": "45°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "04/21/2024",
+		"distance": "10.12277 k",
+		"duration": "63 min",
+		"index": 40,
+		"type": "Running",
+		"weather": "69°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "04/29/2024",
+		"distance": "5.326929 k",
+		"duration": "32 min",
+		"index": 41,
+		"type": "Running",
+		"weather": "58°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "05/19/2024",
+		"distance": "8.062813 k",
+		"duration": "50 min",
+		"index": 42,
+		"type": "Running",
+		"weather": "76°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "05/21/2024",
+		"distance": "6.453469 k",
+		"duration": "38 min",
+		"index": 43,
+		"type": "Running",
+		"weather": "62°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "05/26/2024",
+		"distance": "5.970666 k",
+		"duration": "40 min",
+		"index": 44,
+		"type": "Running",
+		"weather": "90°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "05/31/2024",
+		"distance": "5.00506 k",
+		"duration": "27 min",
+		"index": 45,
+		"type": "Running",
+		"weather": "84°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "06/15/2024",
+		"distance": "4.152108 k",
+		"duration": "28 min",
+		"index": 46,
+		"type": "Running",
+		"weather": "95°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "06/20/2024",
+		"distance": "6.147694 k",
+		"duration": "42 min",
+		"index": 47,
+		"type": "Running",
+		"weather": "68°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "07/10/2024",
+		"distance": "6.582217 k",
+		"duration": "46 min",
+		"index": 48,
+		"type": "Running",
+		"weather": "77°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "08/03/2024",
+		"distance": "5.00506 k",
+		"duration": "34 min",
+		"index": 49,
+		"type": "Running",
+		"weather": "88°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "08/04/2024",
+		"distance": "4.103827 k",
+		"duration": "103 min",
+		"index": 50,
+		"type": "Walking",
+		"weather": "80°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "08/16/2024",
+		"distance": "6.43738 k",
+		"duration": "42 min",
+		"index": 51,
+		"type": "Running",
+		"weather": "69°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "08/29/2024",
+		"distance": "5.600517 k",
+		"duration": "39 min",
+		"index": 52,
+		"type": "Running",
+		"weather": "76°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "09/07/2024",
+		"distance": "5.00506 k",
+		"duration": "32 min",
+		"index": 53,
+		"type": "Running",
+		"weather": "80°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "09/15/2024",
+		"distance": "5.246461 k",
+		"duration": "36 min",
+		"index": 54,
+		"type": "Running",
+		"weather": "78°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "09/20/2024",
+		"distance": "5.455676 k",
+		"duration": "38 min",
+		"index": 55,
+		"type": "Running",
+		"weather": "68°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "09/24/2024",
+		"distance": "6.775338 k",
+		"duration": "48 min",
+		"index": 56,
+		"type": "Running",
+		"weather": "73°",
+		"weatherdesc": "mostly-clear-day"
+	},
+	{
+		"date": "09/29/2024",
+		"distance": "5.00506 k",
+		"duration": "34 min",
+		"index": 57,
+		"type": "Running",
+		"weather": "81°",
+		"weatherdesc": "clear-day"
+	},
+	{
+		"date": "01/03/2024",
+		"distance": "5.165994 k",
+		"duration": "32 min",
+		"index": 58,
+		"type": "Running",
+		"weather": "67°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "10/10/2024",
+		"distance": "5.487863 k",
+		"duration": "39 min",
+		"index": 59,
+		"type": "Running",
+		"weather": "63°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "10/15/2024",
+		"distance": "5.00506 k",
+		"duration": "35 min",
+		"index": 60,
+		"type": "Running",
+		"weather": "55°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "10/16/2024",
+		"distance": "5.165994 k",
+		"duration": "35 min",
+		"index": 61,
+		"type": "Running",
+		"weather": "53°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "10/22/2024",
+		"distance": "2.719791 k",
+		"duration": "16 min",
+		"index": 62,
+		"type": "Running",
+		"weather": "57°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "10/31/2024",
+		"distance": "7.547823 k",
+		"duration": "54 min",
+		"index": 63,
+		"type": "Running",
+		"weather": "64°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "11/07/2024",
+		"distance": "2.832445 k",
+		"duration": "17 min",
+		"index": 64,
+		"type": "Running",
+		"weather": "71°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "11/10/2024",
+		"distance": "1.738092 k",
+		"duration": "12 min",
+		"index": 65,
+		"type": "Running",
+		"weather": "54°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "11/19/2024",
+		"distance": "4.683191 k",
+		"duration": "32 min",
+		"index": 66,
+		"type": "Running",
+		"weather": "57°",
+		"weatherdesc": "clear-night"
+	},
+	{
+		"date": "01/11/2025",
+		"distance": "5.00506 k",
+		"duration": "33 min",
+		"index": 67,
+		"type": "Running",
+		"weather": "44°",
+		"weatherdesc": "cloudy"
+	},
+	{
+		"date": "01/22/2025",
+		"distance": "4.441789 k",
+		"duration": "32 min",
+		"index": 68,
+		"type": "Running",
+		"weather": "23°",
+		"weatherdesc": "cloudy"
+	}
+]
