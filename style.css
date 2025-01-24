@@ -33,10 +33,10 @@ body {
 	margin: 0;
 	color: var(--ink);
 	font-family: var(--primaryFont);
-	background: var(--paper);
+	/* background: var(--paper); */
 	-webkit-font-smoothing: antialiased;
-	background-color: #0d0e0e;
-	background-image: linear-gradient(0deg, #0d0e0e 27%, #5e5e6a 100%);
+	/* background-color: #0d0e0e; */
+	/* background-image: linear-gradient(0deg, #0d0e0e 27%, #5e5e6a 100%); */
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
@@ -100,9 +100,9 @@ h1 {
 	margin: 2rem 0 2rem 0;
 	position: relative;
 	overflow: hidden;
-	border: 1px solid var(--dark);
-	background-color: var(--darker);
-	color: var(--accent);
+	/* border: 1px solid var(--dark); */
+	/* background-color: var(--darker); */
+	/* color: var(--accent); */
 }
 
 h2 {
@@ -130,11 +130,11 @@ a {
 	/* text-decoration-thickness: 1px; */
 	/* text-decoration-color: var(--dark); */
 	text-transform: none;
-	color: inherit;
+	color: var(--primaryColor);
 }
 
 a:hover {
-	color: var(--accent);
+	/* color: var(--accent); */
 	font-weight: bold;
 }
 
@@ -148,7 +148,7 @@ ul ul {
 }
 
 ul::marker {
-	color: var(--accent);
+	/* color: var(--accent); */
 }
 /* layout */
 *,
@@ -165,8 +165,8 @@ ul::marker {
 	margin: 3rem 1rem;
 	/* margin: 20px; */
 	/* padding: 0 1rem; */
-	background-color: var(--darker);
-	color: var(--lighterAccent);
+	/* background-color: var(--darker); */
+	/* color: var(--lighterAccent); */
 	.content {
 		display: grid;
 		grid-template-columns: 80% 20%;
@@ -347,15 +347,15 @@ footer {
 
 header {
 	/* background-color: var(--dark-background-color); */
-	color: var(--primaryColor);
+	/* color: var(--primaryColor); */
 	/* width: 90%; */
 	/* margin-left: 6%; */
 	/* margin-right: 6%; */
-	box-shadow: 5px 1px black, 2px 2px grey, 3px 3px blue, 4px 4px red;
+	/* box-shadow: 5px 1px black, 2px 2px grey, 3px 3px blue, 4px 4px red; */
 	/* background: var(--lightAccent); */
-	background: var(--dark);
+	/* background: var(--dark); */
 	/* background-image: linear-gradient(0deg, #0d0e0e 27%, #5e5e6a 100%); */
-	background-image: linear-gradient(0deg, #5e5e6a 27%, #004225 100%);
+	/* background-image: linear-gradient(0deg, #5e5e6a 27%, #004225 100%); */
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -383,7 +383,7 @@ header {
 	font-family: var(--accentFont);
 	font-size: 2.1rem;
 	line-height: 1;
-	color: var(--accent);
+	color: var(--primaryColor);
 	text-align: center;
 	margin: 0;
 	display: block;
@@ -425,8 +425,8 @@ header {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: var(--darker);
-	color: var(--accent);
+	/* background: var(--darker); */
+
 	transition: all 0.25s cubic-bezier(0.785, 0.135, 0.15, 0.86);
 }
 
@@ -444,7 +444,7 @@ header {
 }
 
 .main-nav a {
-	color: var(--accent);
+	color: var(--primaryColor);
 }
 
 .main-nav li:nth-of-type(1) {
@@ -528,8 +528,8 @@ header {
 }
 
 footer {
-	background: var(--darker);
-	color: var(--paper);
+	/* background: var(--darker); */
+	/* color: var(--paper); */
 	display: grid;
 	grid-template-columns: 100%;
 	align-items: stretch;
@@ -585,8 +585,8 @@ footer ul li {
 	justify-content: center;
 	align-items: center;
 	height: 3rem;
-	background: var(--darker);
-	color: var(--background);
+	/* background: var(--darker); */
+	/* color: var(--background); */
 }
 
 .skip-to-content-link:focus {
@@ -642,12 +642,12 @@ footer ul li {
 
 			&:hover {
 				background: var(--accent);
-				color: var(--background);
+				/* color: var(--background); */
 			}
 
 			&[aria-current='true'] {
 				background: var(--accent);
-				color: var(--background);
+				/* color: var(--background); */
 				border: 1px solid currentColor;
 			}
 		}
@@ -664,13 +664,13 @@ code {
 pre {
 	overflow-y: auto;
 	color: var(--paper);
-	background: var(--darker);
+	/* background: var(--darker); */
 	padding: 1rem;
 	font-size: 0.8rem;
 }
 
 code {
-	color: var(--darker);
+	/* color: var(--darker); */
 	font-size: 1rem;
 	padding: 0.125em 0.25em;
 	border-radius: 4px;
@@ -696,7 +696,7 @@ pre code {
 }
 
 .quote {
-	background-color: var(--lightAccent);
+	/* background-color: var(--lightAccent); */
 	border-left: 3px solid var(--darker);
 	color: var(--slate);
 	padding: 1%;
